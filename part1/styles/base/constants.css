@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #000000;
+  --secondary-color: #0962E8;
+  --link-active: #29374E; 
+
+  --primary-background: #F5F5F5;
+  --secondary-background: #CBECFF;
+
+  --primary-btn: #0962E8; 
+
+  --desktop: 1440px; 
+  --tablet: 768px; 
+  --mobile: 375px; 
+}
