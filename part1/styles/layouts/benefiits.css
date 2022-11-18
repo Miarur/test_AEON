@@ -1,0 +1,27 @@
+.main {
+  background-color: var(--primary-background);
+}
+
+.benefits__wrapper {
+  margin: 0px auto;
+  max-width: 1100px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.benefits__title {
+  padding-top: 115px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 130%;
+  text-align: center;
+  color: var(--text-secondary-color);
+}
+
+.benefits__title_color {
+  background: none;
+  color: var(--secondary-color);
+}
