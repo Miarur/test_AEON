@@ -1,6 +1,7 @@
 :root {
   --primary-color: #000000;
   --secondary-color: #0962E8;
+  --text-secondary-color: #29374E; 
   --link-active: #29374E; 
 
   --primary-background: #F5F5F5;
@@ -8,7 +9,7 @@
 
   --primary-btn: #0962E8; 
 
-  --desktop: 1440px; 
+  --desktop: 1100px; 
   --tablet: 768px; 
   --mobile: 375px; 
 }
