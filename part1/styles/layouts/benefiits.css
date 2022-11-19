@@ -11,17 +11,33 @@
   align-items: center;
 }
 
-.benefits__title {
-  padding-top: 115px;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 38px;
-  line-height: 130%;
-  text-align: center;
-  color: var(--text-secondary-color);
+.benefits_instruments__container {
+  margin-top: -80px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
-.benefits__title_color {
-  background: none;
-  color: var(--secondary-color);
+.benefits_instruments__item {
+  padding: 22px 20px 30px 20px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  max-width: 241px;
+  min-height: 118px;
+  background: #ffffff;
+  box-shadow: 6px 4px 12px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+}
+
+.benefits_instruments__item:last-child {
+  margin-right: 0px;
+}
+
+.item__title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 140%;
+  color: var(--text-secondary-color);
 }
