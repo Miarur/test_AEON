@@ -33,6 +33,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   margin: 0;
+  background-color: var(--secondary-background);
 }
 
 /**
