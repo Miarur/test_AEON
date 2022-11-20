@@ -82,7 +82,7 @@
 
 
 
-@media (max-width: 450px) {
+@media (max-width: 769px) {
   .products__wrapper {
     padding: 0px 15px;
   }

@@ -83,7 +83,7 @@
   color: var(--text-secondary-color);
 }
 
-@media (max-width: 450px) {
+@media (max-width: 769px) {
   .values__wrapper {
     padding: 40px 15px 0px 15px;
   }

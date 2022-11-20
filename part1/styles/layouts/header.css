@@ -118,7 +118,7 @@
   width: 578px;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 769px) {
   .header {
     padding-bottom: 0px;
     min-height: 1100px;
