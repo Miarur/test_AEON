@@ -118,14 +118,13 @@
   width: 578px;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 450px) {
   .header {
     padding-bottom: 0px;
     min-height: 1100px;
     background: url('../../assets/main_mobile.svg') no-repeat;
     background-size: 100%;
     background-position: 20% 5%;
-    
   }
 
   .header__wprapper {
@@ -151,7 +150,7 @@
   }
 
   .app_info__title {
-    margin-top: 463px;
+    margin-top: 493px;
   }
 
   .app_info__description {
@@ -162,7 +161,7 @@
     font-size: 16px;
     line-height: 130%;
   }
-
+  
   .app_info__btn {
     width: 343px;
   }

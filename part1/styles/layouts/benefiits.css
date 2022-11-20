@@ -56,7 +56,7 @@
   color: var(--text-secondary-color);
 }
 
-@media (max-width: 376px) {
+@media (max-width: 450px) {
   .benefits__wrapper {
     padding: 0 15px;
   }
