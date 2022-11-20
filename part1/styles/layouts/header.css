@@ -104,6 +104,14 @@
   line-height: 140%;
   border-radius: 12px;
   border: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.app_info__btn:hover {
+  color: black;
+  background: var(--secondary-background);
+  box-shadow: 6px 4px 12px rgba(13, 12, 12, 0.25);
 }
 
 .app_image__item {
